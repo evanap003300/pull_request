@@ -2,7 +2,7 @@
 Try a fork and pull request from this repo. You name will go down as a contributer and be visable to anyone who visits.
 
 ### steps:
-1) Fork the repo
+1) Fork the repo!!
 2) Edit this file
 3) commit the update
 4) Create a pull request
